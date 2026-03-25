@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SCP-001",
+    "name": "The Gate Guardian",
+    "class": "Euclid",
+    "image": "/SCP-001.webp",
+    "description": "A large humanoid entity approximately 2.8 meters tall, with a pair of large feathered wings and wielding a flaming sword. The entity perpetually stands guard over a mysterious gate at the Site-19 entrance. Keeps all other SCPs contained through unknown means. Extremely dangerous if provoked."
+  },
+  {
+    "id": "SCP-002",
+    "name": "The Living Room",
+    "class": "Euclid",
+    "image": "/SCP-002.jpeg",
+    "description": "A space composed of human tissue dimensions measuring 12 meters x 9 meters x 2.5 meters. The interior constantly regenerates and assimilates organic matter. Any living creature that enters begins transforming into furniture within minutes. Walls are warm to the touch and pulsate. Extreme biohazard."
+  },
+  {
+    "id": "SCP-003",
+    "name": "Biological Motherboard",
+    "class": "Safe",
+    "image": "/SCP-003.jpeg",
+    "description": "An organic computing system composed of human neurons and tissue arranged in a complex network. Processes information at speeds exceeding supercomputers. Requires constant feeding of organic matter to function. Can predict future events with 91% accuracy. Capable of independent thought and communication."
+  },
+  {
+    "id": "SCP-004",
+    "name": "The 12 Rusty Keys",
+    "class": "Euclid",
+    "image": "/SCP-004.jpeg",
+    "description": "A collection of twelve ancient brass keys that unlock doors to various alternate dimensions and realities. Each key has unique properties and opens to different hazardous environments. Some dimensions contain hostile entities. Handling must follow strict containment protocols to prevent interdimensional breaches."
+  },
+  {
+    "id": "SCP-005",
+    "name": "Skeleton Key",
+    "class": "Safe",
+    "image": "/SCP-005.jpeg",
+    "description": "A peculiar key made of an unidentifiable metal that can unlock any lock mechanism in existence. No lock type has proven resistant to its effects. Used during containment procedures with extreme caution. Only five individuals have ever been permitted to touch it. Why it works remains scientifically unexplained."
+  }
+]
