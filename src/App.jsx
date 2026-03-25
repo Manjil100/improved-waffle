@@ -97,3 +97,4 @@ export default function App() {
   )
 }
 
+// This code defines a React component for an SCP Catalogue application. It allows users to view a list of SCPs, see details of each SCP, add new SCPs, and delete existing ones. The component uses state to manage the list of SCPs, the currently selected SCP, and the form for adding new SCPs. The UI is styled with basic CSS for layout and interactivity.
