@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1 className="title">SCP Catalogue</h1>
+      <h1 className="title">Test looking for changes</h1>
       <button onClick={() => setShowAddForm(true)} style={{ padding: '10px 20px', background: '#ff0000', color: 'white', border: 'none', borderRadius: '5px', cursor: 'pointer', marginBottom: '20px' }}>Add New SCP</button>
 
       <div className="grid">
