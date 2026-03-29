@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/improved-waffle/",   // ← MUST match your GitHub repo name
+  base: "/codespaces-react/",   // ← MUST match your GitHub repo name
   test: {
     globals: true,
     environment: 'jsdom',
